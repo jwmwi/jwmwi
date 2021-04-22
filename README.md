@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jwmwi
+- 👀 I’m interested in, linux, unix, shell, python, nltk, elasticsearch, and NLP in general.  Compsci thoery stuff is fun too. 
